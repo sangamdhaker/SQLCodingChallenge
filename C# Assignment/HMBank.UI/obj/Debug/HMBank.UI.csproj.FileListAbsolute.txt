@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\C# Assignment\HMBank.UI\bin\Debug\HMBank.UI.dll
+C:\Users\HP\Desktop\C# Assignment\HMBank.UI\bin\Debug\HMBank.UI.pdb
+C:\Users\HP\Desktop\C# Assignment\HMBank.UI\bin\Debug\HMBank.Entity.dll
+C:\Users\HP\Desktop\C# Assignment\HMBank.UI\bin\Debug\HMBank.Entity.pdb
+C:\Users\HP\Desktop\C# Assignment\HMBank.UI\obj\Debug\HMBank.UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Assignment\HMBank.UI\obj\Debug\HMBank.UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Assignment\HMBank.UI\obj\Debug\HMBank.UI.csproj.Up2Date
+C:\Users\HP\Desktop\C# Assignment\HMBank.UI\obj\Debug\HMBank.UI.dll
+C:\Users\HP\Desktop\C# Assignment\HMBank.UI\obj\Debug\HMBank.UI.pdb

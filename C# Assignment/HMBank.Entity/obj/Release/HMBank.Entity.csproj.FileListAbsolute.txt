@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\C# Assignment\HMBank.Entity\bin\Release\HMBank.Entity.dll
+C:\Users\HP\Desktop\C# Assignment\HMBank.Entity\bin\Release\HMBank.Entity.pdb
+C:\Users\HP\Desktop\C# Assignment\HMBank.Entity\obj\Release\HMBank.Entity.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Assignment\HMBank.Entity\obj\Release\HMBank.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Assignment\HMBank.Entity\obj\Release\HMBank.Entity.dll
+C:\Users\HP\Desktop\C# Assignment\HMBank.Entity\obj\Release\HMBank.Entity.pdb
