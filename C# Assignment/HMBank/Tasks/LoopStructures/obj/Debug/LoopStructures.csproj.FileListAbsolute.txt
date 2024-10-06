@@ -1,7 +1,0 @@
-C:\Users\HP\Desktop\JAVA\LoopStructures\bin\Debug\LoopStructures.exe.config
-C:\Users\HP\Desktop\JAVA\LoopStructures\bin\Debug\LoopStructures.exe
-C:\Users\HP\Desktop\JAVA\LoopStructures\bin\Debug\LoopStructures.pdb
-C:\Users\HP\Desktop\JAVA\LoopStructures\obj\Debug\LoopStructures.csproj.AssemblyReference.cache
-C:\Users\HP\Desktop\JAVA\LoopStructures\obj\Debug\LoopStructures.csproj.CoreCompileInputs.cache
-C:\Users\HP\Desktop\JAVA\LoopStructures\obj\Debug\LoopStructures.exe
-C:\Users\HP\Desktop\JAVA\LoopStructures\obj\Debug\LoopStructures.pdb
