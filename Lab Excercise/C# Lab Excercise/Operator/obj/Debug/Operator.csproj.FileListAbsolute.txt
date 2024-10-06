@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C# Assignment\Operator\bin\Debug\Operator.exe.config
+C:\Users\HP\Desktop\C# Assignment\Operator\bin\Debug\Operator.exe
+C:\Users\HP\Desktop\C# Assignment\Operator\bin\Debug\Operator.pdb
+C:\Users\HP\Desktop\C# Assignment\Operator\obj\Debug\Operator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Assignment\Operator\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Assignment\Operator\obj\Debug\Operator.exe
+C:\Users\HP\Desktop\C# Assignment\Operator\obj\Debug\Operator.pdb
