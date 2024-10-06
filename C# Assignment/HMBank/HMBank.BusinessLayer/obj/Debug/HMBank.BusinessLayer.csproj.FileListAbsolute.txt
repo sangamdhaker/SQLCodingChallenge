@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\HMBank\HMBank.BusinessLayer\bin\Debug\HMBank.BusinessLayer.dll
+C:\Users\HP\Desktop\HMBank\HMBank.BusinessLayer\bin\Debug\HMBank.BusinessLayer.pdb
+C:\Users\HP\Desktop\HMBank\HMBank.BusinessLayer\obj\Debug\HMBank.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HMBank\HMBank.BusinessLayer\obj\Debug\HMBank.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HMBank\HMBank.BusinessLayer\obj\Debug\HMBank.BusinessLayer.dll
+C:\Users\HP\Desktop\HMBank\HMBank.BusinessLayer\obj\Debug\HMBank.BusinessLayer.pdb
