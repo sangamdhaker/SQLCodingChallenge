@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.Exception\obj\Debug\ProjectManagementSystem.Exceptions.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.Exception\obj\Debug\ProjectManagementSystem.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.Exception\obj\Debug\ProjectManagementSystem.Exception.dll
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.Exception\obj\Debug\ProjectManagementSystem.Exception.pdb
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.Exception\bin\Debug\ProjectManagementSystem.Exception.dll
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.Exception\bin\Debug\ProjectManagementSystem.Exception.pdb
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.Exception\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.Exception\bin\Debug\ProjectManagementSystem.BusinessLayer.dll
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.Exception\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.Exception\bin\Debug\ProjectManagementSystem.BusinessLayer.pdb
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.Exception\obj\Debug\ProjectM.E29F1232.Up2Date

@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.BusinessLayer\obj\Debug\ProjectManagementSystem.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.BusinessLayer\obj\Debug\ProjectManagementSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.BusinessLayer\bin\Debug\ProjectManagement.Entity.dll
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.BusinessLayer\bin\Debug\ProjectManagement.Entity.pdb
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.BusinessLayer\obj\Debug\ProjectManagementSystem.BusinessLayer.dll
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.BusinessLayer\obj\Debug\ProjectManagementSystem.BusinessLayer.pdb
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.BusinessLayer\bin\Debug\ProjectManagementSystem.BusinessLayer.dll
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.BusinessLayer\bin\Debug\ProjectManagementSystem.BusinessLayer.pdb
+C:\Users\HP\Desktop\CaseStudySQL\ProjectManagementSystem.BusinessLayer\obj\Debug\ProjectM.5C64CF4E.Up2Date
