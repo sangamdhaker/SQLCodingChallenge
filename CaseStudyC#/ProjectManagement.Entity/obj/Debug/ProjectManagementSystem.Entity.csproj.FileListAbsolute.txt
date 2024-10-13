@@ -1,6 +1,0 @@
-C:\Users\HP\Desktop\CaseStudySQL\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.dll
-C:\Users\HP\Desktop\CaseStudySQL\ProjectManagement.Entity\bin\Debug\ProjectManagement.Entity.pdb
-C:\Users\HP\Desktop\CaseStudySQL\ProjectManagement.Entity\obj\Debug\ProjectManagementSystem.Entity.csproj.AssemblyReference.cache
-C:\Users\HP\Desktop\CaseStudySQL\ProjectManagement.Entity\obj\Debug\ProjectManagementSystem.Entity.csproj.CoreCompileInputs.cache
-C:\Users\HP\Desktop\CaseStudySQL\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.dll
-C:\Users\HP\Desktop\CaseStudySQL\ProjectManagement.Entity\obj\Debug\ProjectManagement.Entity.pdb
