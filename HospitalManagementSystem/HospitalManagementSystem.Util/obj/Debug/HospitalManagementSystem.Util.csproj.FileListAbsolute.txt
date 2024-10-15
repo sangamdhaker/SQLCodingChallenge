@@ -1,7 +1,0 @@
-C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Util\bin\Debug\HospitalManagementSystem.Util.dll.config
-C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Util\bin\Debug\HospitalManagementSystem.Util.dll
-C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Util\bin\Debug\HospitalManagementSystem.Util.pdb
-C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Util\obj\Debug\HospitalManagementSystem.Util.csproj.AssemblyReference.cache
-C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Util\obj\Debug\HospitalManagementSystem.Util.csproj.CoreCompileInputs.cache
-C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Util\obj\Debug\HospitalManagementSystem.Util.dll
-C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Util\obj\Debug\HospitalManagementSystem.Util.pdb

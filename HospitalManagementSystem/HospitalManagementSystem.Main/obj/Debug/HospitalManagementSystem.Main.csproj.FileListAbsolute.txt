@@ -1,2 +1,0 @@
-C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Main\obj\Debug\HospitalManagementSystem.Main.csproj.AssemblyReference.cache
-C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Main\obj\Debug\HospitalManagementSystem.Main.csproj.CoreCompileInputs.cache
