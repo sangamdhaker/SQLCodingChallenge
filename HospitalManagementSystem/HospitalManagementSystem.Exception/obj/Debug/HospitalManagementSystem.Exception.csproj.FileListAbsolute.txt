@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Exception\bin\Debug\HospitalManagementSystem.Exception.dll
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Exception\bin\Debug\HospitalManagementSystem.Exception.pdb
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Exception\obj\Debug\HospitalManagementSystem.Exception.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Exception\obj\Debug\HospitalManagementSystem.Exception.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Exception\obj\Debug\HospitalManagementSystem.Exception.dll
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.Exception\obj\Debug\HospitalManagementSystem.Exception.pdb

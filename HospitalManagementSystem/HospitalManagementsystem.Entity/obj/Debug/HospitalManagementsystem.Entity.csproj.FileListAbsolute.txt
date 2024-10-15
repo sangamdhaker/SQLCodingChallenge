@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementsystem.Entity\bin\Debug\HospitalManagementsystem.Entity.dll.config
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementsystem.Entity\bin\Debug\HospitalManagementsystem.Entity.dll
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementsystem.Entity\bin\Debug\HospitalManagementsystem.Entity.pdb
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementsystem.Entity\obj\Debug\HospitalManagementsystem.Entity.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementsystem.Entity\obj\Debug\HospitalManagementsystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementsystem.Entity\obj\Debug\HospitalManagementsystem.Entity.dll
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementsystem.Entity\obj\Debug\HospitalManagementsystem.Entity.pdb

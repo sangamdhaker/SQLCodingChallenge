@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\obj\Debug\HospitalManagementSystem.DAO.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\obj\Debug\HospitalManagementSystem.DAO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\bin\Debug\HospitalManagementSystem.DAO.dll
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\bin\Debug\HospitalManagementSystem.DAO.pdb
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\bin\Debug\HospitalManagementsystem.Entity.dll
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\bin\Debug\HospitalManagementSystem.Exception.dll
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\bin\Debug\HospitalManagementSystem.Util.dll
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\bin\Debug\HospitalManagementsystem.Entity.pdb
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\bin\Debug\HospitalManagementsystem.Entity.dll.config
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\bin\Debug\HospitalManagementSystem.Exception.pdb
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\bin\Debug\HospitalManagementSystem.Util.pdb
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\bin\Debug\HospitalManagementSystem.Util.dll.config
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\obj\Debug\Hospital.2D9BF8A2.Up2Date
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\obj\Debug\HospitalManagementSystem.DAO.dll
+C:\Users\HP\Desktop\HospitalManagementSystem\HospitalManagementSystem.DAO\obj\Debug\HospitalManagementSystem.DAO.pdb
